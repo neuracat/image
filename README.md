@@ -21,11 +21,11 @@ The total loss is a combination of the adversarial loss and the cycle consistenc
 
 ## Installation and Usage
 
-To utilize this repository, clone it and install the required packages. Use the provided `main.py` to initiate the training process on your desired datasets.
-git clone https://github.com/neuracat/image.git
-cd CycleGAN-Image-Transformation
-pip install -r requirements.txt
-python main.py
+To utilize this repository, clone it and install the required packages. Use the provided `main.py` to initiate the training process on your desired datasets.  
+git clone https://github.com/neuracat/image.git  
+cd CycleGAN-Image-Transformation  
+pip install -r requirements.txt  
+python main.py  
 
 
 ## Contributing
